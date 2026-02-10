@@ -160,9 +160,9 @@ Galgotias University
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="mailto:vachaspatiaman@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/vachaspati-aman">LinkedIn</a> •
+  <a href="https://github.com/VachaspatiAman">GitHub</a>
 </p>
 
 <p align="center">

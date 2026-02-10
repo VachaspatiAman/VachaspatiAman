@@ -1,148 +1,158 @@
-<!-- ================= AI THEMED BANNER ================= -->
-<img src="https://raw.githubusercontent.com/VachaspatiAman/VachaspatiAman/main/banner.jpg" />
+<!-- ================= FUTURISTIC AI BANNER ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VachaspatiAman/VachaspatiAman/main/banner.jpg" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">Software Developer • AI/ML Developer</h3>
+<h1 align="center">Aman</h1>
+<h3 align="center">Software Engineer × AI/ML Developer</h3>
 
 <p align="center">
-  Building scalable software & intelligent systems to solve real-world problems
+  Designing scalable software · Building intelligent systems · Learning continuously
 </p>
 
 <p align="center">
-  <a href="mailto:vachaspatiaman@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/vachaspati-aman">💼 LinkedIn</a> •
-  <a href="https://github.com/VachaspatiAman">🐙 GitHub</a>
-</p>
-
----
-
-<!-- ================= TYPING ANIMATION ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=800&lines=Software+Developer;AI+%26+ML+Engineer;Backend+%26+Web+Developer;Machine+Learning+Research+Enthusiast;Always+Learning" />
+  <a href="mailto:vachaspatiaman@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/vachaspati-aman">LinkedIn</a> ·
+  <a href="https://github.com/VachaspatiAman">GitHub</a>
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 💻 Software Developer focused on **clean architecture & scalable systems**
-- 🤖 AI/ML Developer working with **data, models & intelligent automation**
-- 🧪 Interested in **machine learning research & experimentation**
-- 🚀 Open to **internships, research roles & collaborations**
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Software Development
+<!-- ================= DYNAMIC IDENTITY ================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>
-</p>
-
-### 🤖 AI / Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=22&width=900&lines=Software+Engineering+Mindset;AI+%26+Machine+Learning+Development;Backend+Systems+%26+Architecture;Applied+ML+%7C+Research+Thinking;Building+for+Scale+and+Impact" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧭 Engineering Philosophy
+
+I approach development with a **systems mindset**—balancing correctness, scalability, and long-term maintainability.
+
+- 🧠 Think in **systems**, not just features  
+- 🧩 Prefer **simple, composable architectures**  
+- 📊 Data-driven decisions over assumptions  
+- 🤖 AI as a **tool**, not a black box  
+
+---
+
+## ⚙️ Core Competencies
+
+### 🧑‍💻 Software Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-101820?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Flask-101820?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/SQL-101820?style=for-the-badge&logo=postgresql"/>
+</p>
+
+- Backend APIs & services  
+- Authentication & role-based access  
+- Database design & query optimization  
+- Clean code & modular architecture  
+
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-101820?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-101820?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-101820?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-101820?style=for-the-badge&logo=tensorflow"/>
+</p>
+
+- Data preprocessing & feature engineering  
+- Classical ML & neural networks  
+- Model evaluation & error analysis  
+- Applied ML for real-world problems  
+
+---
+
+## 🚀 Selected Work
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce Web Application
-✔ Admin & User Portals  
-✔ Secure Authentication  
-✔ Order & Product Management  
-✔ Scalable Backend Architecture  
+### E-Commerce Platform
+**Role:** Backend & System Design  
+- Secure auth & admin workflows  
+- Order & product lifecycle  
+- Scalable REST architecture  
 
-🔗 <a href="https://github.com/YOUR_USERNAME/ecommerce-project">View Repository</a>
-
-</td>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/ecommerce-project/main/preview.png">
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 ML Recommendation System
-✔ Data Preprocessing  
-✔ Feature Engineering  
-✔ Model Training & Evaluation  
-✔ Real-World Dataset  
-
-🔗 <a href="https://github.com/YOUR_USERNAME/ml-recommendation">View Repository</a>
+🔗 https://github.com/VachaspatiAman/ecommerce-project
 
 </td>
 <td width="50%">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/ml-recommendation/main/preview.png">
+<img src="https://raw.githubusercontent.com/VachaspatiAman/ecommerce-project/main/preview.png">
 </td>
 </tr>
 
 <tr>
 <td width="50%">
 
-### 🎫 Event ePass System
-✔ QR Code Verification  
-✔ Email PDF Automation  
-✔ Admin Dashboard & Analytics  
+### ML Recommendation Engine
+**Focus:** Applied Machine Learning  
+- Feature engineering & modeling  
+- Model comparison & evaluation  
+- Data-driven recommendations  
 
-🔗 <a href="https://github.com/YOUR_USERNAME/event-epass">View Repository</a>
+🔗 https://github.com/VachaspatiAman/ml-recommendation
 
 </td>
 <td width="50%">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/event-epass/main/preview.png">
+<img src="https://raw.githubusercontent.com/VachaspatiAman/ml-recommendation/main/preview.png">
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Event ePass System
+**Stack:** Software × Automation  
+- QR-based validation  
+- Email PDF automation  
+- Admin analytics dashboard  
+
+🔗 https://github.com/VachaspatiAman/event-epass
+
+</td>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/VachaspatiAman/event-epass/main/preview.png">
 </td>
 </tr>
 </table>
 
 ---
 
-## 🧪 AI / ML Research Focus
+## 🧪 AI Research & Experimentation
 
-🔍 **Research Interests**
-- Supervised & Unsupervised Learning
-- Neural Networks & Deep Learning
-- Feature Engineering & Optimization
-- Model Evaluation & Performance Metrics
-- AI Deployment & MLOps Basics
+**Areas of Exploration**
+- Supervised & unsupervised learning  
+- Bias–variance trade-offs  
+- Feature importance & interpretability  
+- Model robustness & generalization  
 
-🧠 **Typical Workflow**
-1. Data Collection & Cleaning  
-2. Exploratory Data Analysis (EDA)  
-3. Feature Engineering  
-4. Model Selection & Training  
-5. Hyperparameter Tuning  
-6. Evaluation (Accuracy, Precision, Recall, F1-score)  
-7. Real-world Validation  
-
-📄 **Experiments & Studies**
-- Model comparison on structured datasets  
-- Overfitting vs underfitting analysis  
-- Feature importance studies  
+**Workflow**
+1. Problem framing  
+2. Data understanding  
+3. Feature engineering  
+4. Model training & tuning  
+5. Evaluation & iteration  
+6. Real-world validation  
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Developer Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VachaspatiAman&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VachaspatiAman&theme=radical" height="165"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://github.com/VachaspatiAman/VachaspatiAman/blob/output/github-contribution-grid-snake.svg" />
@@ -152,19 +162,19 @@
 
 ## 🎓 Education
 
-🎓 **BCA (Hons.) – Artificial Intelligence & Machine Learning**  
+**BCA (Hons.) – Artificial Intelligence & Machine Learning**  
 Galgotias University  
 
 ---
 
-## 📫 Let’s Connect
+## 🤝 Let’s Build
+
+I’m interested in:
+- Software engineering internships  
+- Applied AI/ML roles  
+- Research-driven projects  
+- Open-source collaboration  
 
 <p align="center">
-  <a href="mailto:vachaspatiaman@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/vachaspati-aman">LinkedIn</a> •
-  <a href="https://github.com/VachaspatiAman">GitHub</a>
-</p>
-
-<p align="center">
-  ⚡ Code • Data • Intelligence
+  <strong>Code · Systems · Intelligence</strong>
 </p>

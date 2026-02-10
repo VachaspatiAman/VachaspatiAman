@@ -1,4 +1,4 @@
-<!-- ================= FUTURISTIC AI BANNER ================= -->
+<!-- ================= HERO ================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/VachaspatiAman/VachaspatiAman/main/banner.jpg" />
 </p>
@@ -7,7 +7,7 @@
 <h3 align="center">Software Engineer × AI/ML Developer</h3>
 
 <p align="center">
-  Designing scalable software · Building intelligent systems · Learning continuously
+  Systems · Data · Intelligence
 </p>
 
 <p align="center">
@@ -18,67 +18,64 @@
 
 ---
 
-<!-- ================= DYNAMIC IDENTITY ================= -->
+<!-- ================= DYNAMIC HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=22&width=900&lines=Software+Engineering+Mindset;AI+%26+Machine+Learning+Development;Backend+Systems+%26+Architecture;Applied+ML+%7C+Research+Thinking;Building+for+Scale+and+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=22&width=900&lines=Software+Engineering+Mindset;Applied+AI+%26+Machine+Learning;Backend+Systems+%26+Architecture;Data-Driven+Problem+Solving;Building+for+Scale+and+Longevity" />
 </p>
 
 ---
 
-## 🧭 Engineering Philosophy
+## 📊 Developer Metrics
 
-I approach development with a **systems mindset**—balancing correctness, scalability, and long-term maintainability.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VachaspatiAman&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VachaspatiAman&theme=radical&hide_border=true" height="170"/>
+</p>
 
-- 🧠 Think in **systems**, not just features  
-- 🧩 Prefer **simple, composable architectures**  
-- 📊 Data-driven decisions over assumptions  
-- 🤖 AI as a **tool**, not a black box  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VachaspatiAman&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## ⚙️ Core Competencies
+## 🧭 Engineering Profile
+
+- **Primary Focus:** Software systems & applied AI  
+- **Approach:** Simplicity → Scalability → Reliability  
+- **Philosophy:** Correctness before cleverness  
+- **AI Belief:** Models must be explainable, testable, deployable  
+
+---
+
+## ⚙️ Technology Stack
 
 ### 🧑‍💻 Software Engineering
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/JavaScript-101820?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Flask-101820?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/SQL-101820?style=for-the-badge&logo=postgresql"/>
+  <img src="https://skillicons.dev/icons?i=python,js,flask,postgres,git,linux&theme=dark" />
 </p>
 
-- Backend APIs & services  
-- Authentication & role-based access  
-- Database design & query optimization  
-- Clean code & modular architecture  
-
----
-
-### 🤖 Artificial Intelligence & Machine Learning
+### 🤖 Artificial Intelligence / ML
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-101820?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-101820?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-101820?style=for-the-badge&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-101820?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
 </p>
 
 - Data preprocessing & feature engineering  
 - Classical ML & neural networks  
 - Model evaluation & error analysis  
-- Applied ML for real-world problems  
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Projects Snapshot
 
 <table>
 <tr>
 <td width="50%">
 
-### E-Commerce Platform
-**Role:** Backend & System Design  
-- Secure auth & admin workflows  
-- Order & product lifecycle  
-- Scalable REST architecture  
+### E-Commerce Platform  
+**Role:** Backend & Architecture  
+- Auth & role management  
+- Order lifecycle  
+- Scalable REST APIs  
 
 🔗 https://github.com/VachaspatiAman/ecommerce-project
 
@@ -91,11 +88,11 @@ I approach development with a **systems mindset**—balancing correctness, scala
 <tr>
 <td width="50%">
 
-### ML Recommendation Engine
-**Focus:** Applied Machine Learning  
-- Feature engineering & modeling  
-- Model comparison & evaluation  
-- Data-driven recommendations  
+### ML Recommendation Engine  
+**Focus:** Applied ML  
+- Feature engineering  
+- Model comparison  
+- Performance tuning  
 
 🔗 https://github.com/VachaspatiAman/ml-recommendation
 
@@ -104,51 +101,24 @@ I approach development with a **systems mindset**—balancing correctness, scala
 <img src="https://raw.githubusercontent.com/VachaspatiAman/ml-recommendation/main/preview.png">
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-### Event ePass System
-**Stack:** Software × Automation  
-- QR-based validation  
-- Email PDF automation  
-- Admin analytics dashboard  
-
-🔗 https://github.com/VachaspatiAman/event-epass
-
-</td>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/VachaspatiAman/event-epass/main/preview.png">
-</td>
-</tr>
 </table>
 
 ---
 
 ## 🧪 AI Research & Experimentation
 
-**Areas of Exploration**
+**Areas**
 - Supervised & unsupervised learning  
 - Bias–variance trade-offs  
-- Feature importance & interpretability  
-- Model robustness & generalization  
+- Feature importance  
+- Model robustness  
 
 **Workflow**
 1. Problem framing  
 2. Data understanding  
 3. Feature engineering  
-4. Model training & tuning  
+4. Model training  
 5. Evaluation & iteration  
-6. Real-world validation  
-
----
-
-## 📈 Developer Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VachaspatiAman&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VachaspatiAman&theme=radical" height="165"/>
-</p>
 
 ---
 
@@ -167,9 +137,8 @@ Galgotias University
 
 ---
 
-## 🤝 Let’s Build
+## 🤝 Open To
 
-I’m interested in:
 - Software engineering internships  
 - Applied AI/ML roles  
 - Research-driven projects  

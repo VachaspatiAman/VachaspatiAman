@@ -1,13 +1,13 @@
-<!-- ================= HERO ================= -->
+<!-- ================= FUTURISTIC BANNER ================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/VachaspatiAman/VachaspatiAman/main/banner.jpg" />
 </p>
 
-<h1 align="center">Aman</h1>
-<h3 align="center">Software Engineer × AI/ML Developer</h3>
+<h1 align="center">Aman Vachaspati</h1>
+<h3 align="center">Software Engineer • AI / ML Engineer</h3>
 
 <p align="center">
-  Systems · Data · Intelligence
+  Engineering intelligent systems & scalable software for the future
 </p>
 
 <p align="center">
@@ -18,111 +18,69 @@
 
 ---
 
-<!-- ================= DYNAMIC HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=22&width=900&lines=Software+Engineering+Mindset;Applied+AI+%26+Machine+Learning;Backend+Systems+%26+Architecture;Data-Driven+Problem+Solving;Building+for+Scale+and+Longevity" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=900&lines=Software+Engineering+with+AI;Backend+Systems+%7C+Machine+Learning;Building+Future-Ready+Products;Always+Learning" />
 </p>
 
 ---
 
-## 📊 Developer Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VachaspatiAman&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VachaspatiAman&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VachaspatiAman&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🧭 Engineering Profile
-
-- **Primary Focus:** Software systems & applied AI  
-- **Approach:** Simplicity → Scalability → Reliability  
-- **Philosophy:** Correctness before cleverness  
-- **AI Belief:** Models must be explainable, testable, deployable  
-
----
-
-## ⚙️ Technology Stack
-
-### 🧑‍💻 Software Engineering
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,flask,postgres,git,linux&theme=dark" />
-</p>
-
-### 🤖 Artificial Intelligence / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
-</p>
-
-- Data preprocessing & feature engineering  
-- Classical ML & neural networks  
-- Model evaluation & error analysis  
-
----
-
-## 🚀 Projects Snapshot
+## 🧩 Overview
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### E-Commerce Platform  
-**Role:** Backend & Architecture  
-- Auth & role management  
-- Order lifecycle  
-- Scalable REST APIs  
+### 🧠 Engineering Mindset
 
-🔗 https://github.com/VachaspatiAman/ecommerce-project
+- Build **systems**, not just features  
+- Treat **AI as engineering**, not magic  
+- Focus on **scalability, clarity, and impact**  
+- Learn by **building, breaking, and iterating**
 
-</td>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/VachaspatiAman/ecommerce-project/main/preview.png">
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ML Recommendation Engine  
-**Focus:** Applied ML  
-- Feature engineering  
-- Model comparison  
-- Performance tuning  
-
-🔗 https://github.com/VachaspatiAman/ml-recommendation
+**Current Focus**
+- Backend & API development  
+- Applied Machine Learning  
+- AI-powered products  
+- Real-world problem solving  
 
 </td>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/VachaspatiAman/ml-recommendation/main/preview.png">
+
+<td width="50%" valign="top">
+
+### ⚙️ Core Stack
+
+**Software Engineering**
+<p>
+  <img src="https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Flask-1A1A1A?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/SQL-222222?style=for-the-badge&logo=postgresql"/>
+</p>
+
+**AI / Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-1E293B?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow"/>
+</p>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🧪 AI Research & Experimentation
+## 📊 GitHub Activity
 
-**Areas**
-- Supervised & unsupervised learning  
-- Bias–variance trade-offs  
-- Feature importance  
-- Model robustness  
-
-**Workflow**
-1. Problem framing  
-2. Data understanding  
-3. Feature engineering  
-4. Model training  
-5. Evaluation & iteration  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VachaspatiAman&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VachaspatiAman&theme=radical" height="165"/>
+</p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Flow
 
 <p align="center">
   <img src="https://github.com/VachaspatiAman/VachaspatiAman/blob/output/github-contribution-grid-snake.svg" />
@@ -130,20 +88,6 @@
 
 ---
 
-## 🎓 Education
-
-**BCA (Hons.) – Artificial Intelligence & Machine Learning**  
-Galgotias University  
-
----
-
-## 🤝 Open To
-
-- Software engineering internships  
-- Applied AI/ML roles  
-- Research-driven projects  
-- Open-source collaboration  
-
 <p align="center">
-  <strong>Code · Systems · Intelligence</strong>
+  ⚡ Engineering the future with code, data & intelligence
 </p>

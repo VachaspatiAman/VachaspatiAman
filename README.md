@@ -1,5 +1,5 @@
 <!-- ================= AI THEMED BANNER ================= -->
-<img src="https://raw.githubusercontent.com/VachaspatiAman/VachaspatiAman/main/banner.png" />
+<img src="https://raw.githubusercontent.com/VachaspatiAman/VachaspatiAman/main/banner.jpg" />
 
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">Software Developer • AI/ML Developer</h3>
